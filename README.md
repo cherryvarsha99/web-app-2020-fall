@@ -230,7 +230,7 @@ Authentication & Authorization
 - [ISA NWMSU Repo (GDP 2 Team 4 Section 2)](https://github.com/MAHALAKSHMIKONGARI/GDP_Team-4_Section-2) - example using passport and passport-jwt for user authentication and authorization
 - [ISA NWMSU App](http://isanwmsu.herokuapp.com/)
 
-# Contribute
+## Contribute
 
 See our [Contributing Guide](./CONTRIBUTING.md) for instructions on how to contribute code.
 
